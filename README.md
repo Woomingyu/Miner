@@ -13,5 +13,5 @@ https://github.com/Woomingyu/Miner/assets/119576417/60247b1a-fa7f-4226-a1ef-6d1e
 https://github.com/Woomingyu/Miner/assets/119576417/134a0cde-5e9d-4078-be8c-374e50110701
 ## 3
 
-https://github.com/Woomingyu/Miner/assets/119576417/93b41621-18d9-4d7e-9cd0-2ec6ed2d4b7f
+![스크린샷(115)](https://github.com/Woomingyu/Miner/assets/119576417/93b41621-18d9-4d7e-9cd0-2ec6ed2d4b7f)
 ## 4
