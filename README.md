@@ -31,9 +31,9 @@
 아이템 획득, 버리기, 슬롯 간 이동  
 
 #### 관련 스크립트  
-[슬롯](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Slot.cs#L128)
-[인벤토리](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Inventory.cs#L74)
-[아이템](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/Item.cs#L6)
+[슬롯](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Slot.cs#L128)  
+[인벤토리](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Inventory.cs#L74)  
+[아이템](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/Item.cs#L6)  
 ***
 
 ![스크린샷(115)](https://github.com/Woomingyu/Miner/assets/119576417/93b41621-18d9-4d7e-9cd0-2ec6ed2d4b7f)
