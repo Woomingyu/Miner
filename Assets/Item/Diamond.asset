@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfec258bb4b6dee4dbbeecc28fb113ab, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  itemName: Diamond
+  itemDesc: "\uB2E4\uC774\uC544 \uAD11\uC11D"
+  itemWeight: 5
+  itemType: 2
+  itemImage: {fileID: 21300000, guid: 04b1506976b086849b3ed9482f7591d5, type: 3}
+  itemPrefab: {fileID: 145097058469073105, guid: 321e8c5184d5120449a147bf5f6a4d95, type: 3}
+  itemCost: 10
+  itemBuyCost: 10
+  weaponType: 
