@@ -12,7 +12,7 @@
 ### 스킬체크 구현  
 움직이는 객체가 특정 위치에 있을 때, 입력이 있는 경우 결과를 내보냄  
 
-####관련 스크립트  
+#### 관련 스크립트  
 [스킬체크](https://github.com/Woomingyu/Miner/blob/93d93d05550ec2e7f846838cbbd59fdbaac65584/Assets/Scripts/Cursor.cs#L78)  
 
 ***
@@ -21,7 +21,7 @@
 ### 자원 구현(체력, 기력, 돈)  
 특정한 조건에 따라 증감하는 자원들  
 
-####관련 스크립트  
+#### 관련 스크립트  
 [플레이어 자원](https://github.com/Woomingyu/Miner/blob/93d93d05550ec2e7f846838cbbd59fdbaac65584/Assets/Scripts/PlayerController.cs#L300)
 
 ***
@@ -30,7 +30,7 @@
 ### 인벤토리  
 아이템 획득, 버리기, 슬롯 간 이동  
 
-####관련 스크립트  
+#### 관련 스크립트  
 [슬롯](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Slot.cs#L128)
 [인벤토리](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Inventory.cs#L74)
 [아이템](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/Item.cs#L6)
@@ -40,7 +40,7 @@
 ### 상점  
 구매, 판매  
 
-####관련 스크립트  
+#### 관련 스크립트  
 [상점](https://github.com/Woomingyu/Miner/blob/6d60b84f52aa25b554059dd23f22d75e106d1c87/Assets/Scripts/UI_Scripts/Inventory.cs#L131)
 
 ***
